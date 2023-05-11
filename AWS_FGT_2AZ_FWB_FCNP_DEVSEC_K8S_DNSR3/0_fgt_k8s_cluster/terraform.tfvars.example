@@ -1,0 +1,9 @@
+# AWS Environment
+access_key = "xxx"
+secret_key = "xxx"
+
+# Change to your own Github token for deployment with Terraform
+github_token = "ghp_xxx"
+
+# FortiCNP Container Guardian new K8S cluster token
+forticnp_token = "xxx"

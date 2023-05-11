@@ -1,0 +1,16 @@
+# Change to your own AWS variables for deployment with Terraform
+access_key = "xxx"
+secret_key = "xxx"
+
+# Change to your own Github token for deployment with Terraform
+token = "ghp_xxx"
+
+# Dockerhub variables
+dockerhub_token = "dckr_xxx"
+
+# FortiWEB Cloud Token
+fwb_cloud_token = "xxx"
+
+# FortiDevSec
+devsc_org = "6b3ab84a-xxx-xxx"
+devsc_app = "492489e0-xxx-xxx"
