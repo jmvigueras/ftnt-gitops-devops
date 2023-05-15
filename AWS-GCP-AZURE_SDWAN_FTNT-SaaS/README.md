@@ -1,7 +1,7 @@
-# GitOps and DevSecOps with Fortinet - Security Day 2023 Demos
-
+# Plaform Engineering with Fortinet
 ## Introduction
-This project provides an illustration of how an environment can be utilized to establish a comprehensive CICD (Continuous Integration and Continuous Deployment) cycle for an application utilizing an Agile methodology and GitOps. The security aspect has been given due consideration throughout the application's life cycle, from coding to runtime with Fortinet security services solutions as FortiDevSec, FortiCNP, FortiWeb Cloud SaaS and Fortigate NGFW. 
+
+Platform Engineering involves creating and maintaining the underlying infrastructure and tools that support software development and deployment. This project provides an illustration of a deployment of such a platform on public Cloud. The security aspect has been given due consideration throughout the application's life cycle, from coding to runtime with Fortinet security services solutions as FortiDevSec, FortiCNP, FortiWeb Cloud SaaS and Fortigate NGFW. 
 
 ## Overview
 
